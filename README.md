@@ -17,4 +17,3 @@
 - Entity Framework Core
 - Guna.UI2 – moderns interfeiss un tumšā tēma
 
-## 🧱 Mapi struktūra
